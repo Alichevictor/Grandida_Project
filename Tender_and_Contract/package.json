@@ -1,0 +1,19 @@
+{
+  "name": "tendercontract",
+  "version": "1.0.0",
+  "description": "This Dapp is for the purpose of achieving Transparency and fairness in Tender management system using blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alichevictor/Tender_Contract.git"
+  },
+  "author": "Victor Aliche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alichevictor/Tender_Contract/issues"
+  },
+  "homepage": "https://github.com/Alichevictor/Tender_Contract#readme"
+}
